@@ -2,4 +2,4 @@ Creates raw Z39.50 queries for parameters set by user from records in MARCXML. A
 
 NOTE: Will ONLY return queries for records with more than one query term!
 
-_Early versions of this code were written with the assistance of MetaAI in January and February 2025. This version was written by a human and checked for functionality._
+_Early versions of this code were written with the assistance of MetaAI in January and February 2025. This version was written by a human and checked for functionality, though errors and inefficiencies may still remain. Use with caution!_
